@@ -1,0 +1,8 @@
+# folders to be ignored
+node_modules
+public
+models
+
+#files to be ignored
+*.zip
+.env
